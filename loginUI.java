@@ -70,14 +70,14 @@ public class loginUI
 		frame.getContentPane().add(btnlogin);
 		
 		btncancel = new JButton("Cancel");
-		btncancel.setFont(new Font("Tahoma", Font.BOLD, 20));
-		btncancel.setBounds(523, 368, 146, 51);
 		btncancel.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				txtuname.setText(null);
 				passwordField.setText(null);
 			}
 		});
+		btncancel.setFont(new Font("Tahoma", Font.BOLD, 20));
+		btncancel.setBounds(523, 368, 146, 51);
 		frame.getContentPane().add(btncancel);
 		
 		passwordField = new JPasswordField();
