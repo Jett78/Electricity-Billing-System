@@ -37,17 +37,17 @@ public class system
 		frame.getContentPane().add(panel);
 		panel.setLayout(null);
 		
-	    custID = new JLabel("Customer ID");
+	        custID = new JLabel("Customer ID");
 		custID.setFont(new Font("Times New Roman", Font.BOLD, 22));
 		custID.setBounds(38, 69, 125, 26);
 		panel.add(custID);
 		
-	    custname = new JLabel("Customer Name");
+	        custname = new JLabel("Customer Name");
 		custname.setFont(new Font("Times New Roman", Font.BOLD, 22));
 		custname.setBounds(38, 133, 166, 33);
 		panel.add(custname);
 		
-	    address = new JLabel("Address");
+	        address = new JLabel("Address");
 		address.setFont(new Font("Times New Roman", Font.BOLD, 22));
 		address.setBounds(38, 197, 100, 26);
 		panel.add(address);
@@ -87,8 +87,8 @@ public class system
 		t5.setBounds(202, 306, 125, 38);
 		panel.add(t5);
 		
-	    textArea = new JTextArea();
-	    textArea.setBackground(new Color(255, 255, 255));
+	        textArea = new JTextArea();
+	        textArea.setBackground(new Color(255, 255, 255));
 		textArea.setBounds(461, 44, 348, 320);
 		panel.add(textArea);
 		
