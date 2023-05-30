@@ -10,8 +10,8 @@
 
 
 
+![Untitledwewe](https://github.com/Jett78/Java-GUI-Electricity-Billing-System/assets/120304533/a29cb7f2-bd16-4385-b277-3ec5a9e89989)
 
-![system](https://github.com/Jett78/Electricity-Billing-System/assets/120304533/3eb7496f-ae30-402f-a3e0-f4782e653b58)
 
 
 
